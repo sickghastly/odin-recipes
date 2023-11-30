@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.main-heading {
+    font-size: 72px;
+}
+
+.recipe-heading {
+    font-size: 48px
+}
+
+ul.contents-table {
+    list-style-type: none;
+}
+
+.contents-table li a{
+    font-size: 24px;
+    padding: 10px 5px; 
+}
+
+.contents-table li img{
+    padding: 10px 5px;
+    width: 150px;
+    border-style: solid;
+    border-width: 1px;
+}
